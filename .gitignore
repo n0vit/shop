@@ -9,7 +9,8 @@
 # Documentation here: https://yarnpkg.com/features/zero-installs
 !.yarn/cache
 #.pnp.*
-
+.history
+.DS_Store
 .space
 /src/static/
 /dist/static/
